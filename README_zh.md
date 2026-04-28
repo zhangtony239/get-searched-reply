@@ -25,7 +25,7 @@ uv tool install -e .
 ```yaml
 api_key: "your_api_key_here"
 system_prompt: "You are a helpful assistant."
-model: "qwen-plus"
+model: "deepseek-v4-flash"
 base_url: "https://dashscope.aliyuncs.com/compatible-mode/v1"
 ```
 
